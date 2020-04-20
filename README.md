@@ -1,5 +1,5 @@
 # ProxyChecker
-###Easy-to-use python proxy checker. Made with PYQT5. [Discord Server FOR HELP](https://discord.gg/jvbbNAk)
+### Easy-to-use python proxy checker. Made with PYQT5. [Discord Server FOR HELP](https://discord.gg/jvbbNAk)
 ```
   > git clone https://github.com/FrateSole/ProxyChecker
   > cd LicenseGui
