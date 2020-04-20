@@ -15,8 +15,8 @@
   > python3 checker.py
 ``` 
 <p align="center">
-  <img src="/images/checker1.PNG">
+  <img src="/images/Checker1.PNG">
 </p>
 <p align="center">
-  <img src="/images/checker2.PNG">
+  <img src="/images/Checker2.PNG">
 </p>
